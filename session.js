@@ -40,6 +40,6 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Your session id here",
+SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~PY0z0LAD#WRF6hBGKrDIZvqq6XSW5yN6-EaGyDrOOLBtFLUkqJYk",
 PORT: process.env.PORT || "8000"
 };
