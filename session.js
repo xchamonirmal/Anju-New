@@ -16,20 +16,20 @@
 //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ
+//  * @project_name : © nimsarax 𝗑ᴾᴿᴼ
 //  * @version      : 4.0
-//  * @author       : Janith Rashmika
-//  * @youtube      : https://www.youtube.com/@gamingrash2006
-//  * @description  : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ, A Multi-functional WhatsApp bot created by Janith Rashmika.
+//  * @author       : chalana
+//  * @youtube      : youtube.com/channel/UClP1a9LyUBgLv3BWsx6kJWQ
+//  * @description  : © nimsarax 𝗑ᴼ, A Multi-functional WhatsApp bot created by chalananimsara.
 //*
 //*
 //Base by Janith Rashmika
-//GitHub: @Mrrashmika
-//WhatsApp: +94717775628
-//Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@gamingrash2006
-//   * Created By GitHub: Mrrashmika
-//   * Credit To Janith Rashmika
-//   * © 2025 © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ-V4.
+//GitHub: chalananimsara123456
+//WhatsApp: +94779890822
+//Want more free bot scripts? Subscribe to my YouTube channel: https:youtube.com/channel/UClP1a9LyUBgLv3BWsx6kJWQ
+//   * Created By GitHub:chalananimsara123456
+//   * Credit To chalananimsara123456
+//   * © 2025 ©nimsarax 𝗑 𝗑ᴾᴿᴼ-V4.
 // ⛥┌┤
 // */
 
