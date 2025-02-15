@@ -25,7 +25,7 @@
 //*
 //Base by Janith Rashmika
 //GitHub: @Mrrashmika
-//WhatsApp: +94717775628
+//WhatsApp: +923026976916
 //Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@gamingrash2006
 //   * Created By GitHub: Mrrashmika
 //   * Credit To Janith Rashmika
@@ -40,6 +40,6 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Your session id here",
+SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~nVVhCRZZ#UkAfEQgRkLc-hoV3ImnO-RrDtgxs9IERfK4etrzCGSU",
 PORT: process.env.PORT || "8000"
 };
