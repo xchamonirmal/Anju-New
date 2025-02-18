@@ -56,7 +56,6 @@
     "quick-lru": "7.0.0",
     "ruhend-scraper": "7.0.6",
     "seedr": "^1.1.2",
-    "sharp": "^0.33.5",
     "stream": "0.0.3",
     "tiktokdl": "0.0.5",
     "util": "^0.12.4",
