@@ -1,4 +1,4 @@
-.<div class = "repo" align = "center">
+..<div class = "repo" align = "center">
  
 <a href = "#">
 <img src = "https://i.ibb.co/5WyPqpwB/2logojpg.jpg"  width="640" height="309">
